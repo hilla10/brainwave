@@ -46,10 +46,10 @@ npm run dev
 ```
 
 🙌 Author
-Hailemichael Negusse
-📧 hillaman592@gmail.com
-🔗 GitHub – hilla10
-🌍 Addis Ababa, Ethiopia
+ - Hailemichael Negusse
+ - 📧 hillaman592@gmail.com
+ - 🔗 GitHub – hilla10
+ - 🌍 Addis Ababa, Ethiopia
 
 📄 License
 This project is for educational and portfolio purposes. Feel free to fork or use the design for learning.
