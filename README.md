@@ -8,7 +8,7 @@ Check it out here 👉 [Brainwave](https://brainwave-sigma-ten.vercel.app)
 
 ## 📸 Screenshots
 
-![Screenshot](./portfolio.webp)
+![Screenshot](./portfolio6.webp)
 ---
 
 ## 🛠️ Tech Stack
